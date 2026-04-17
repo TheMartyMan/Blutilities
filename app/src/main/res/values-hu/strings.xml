@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tile_bluetooth_off">Bluetooth kikapcsolva</string>
+    <string name="tile_no_device">Csatlakozzon audioeszközhöz</string>
+    <string name="tile_connected">Csatlakoztatva</string>
+    <string name="title_bt_quality">%1$s</string>
+    <string name="title_bt_quality_default">Bluetooth lejátszási minőség</string>
+    <string name="close">Bezárás</string>
+    <string name="codec_system_selection">Rendszer választása (Optimális)</string>
+    <string name="codec_system_selection_sub">A rendszer automatikusan választ</string>
+    <string name="header_codec">Kodek</string>
+    <string name="header_ldac_quality">LDAC minőség</string>
+    <string name="no_device_connected">Nincs csatlakoztatott eszköz</string>
+    <string name="ldac_quality_best">Optimális hangminőség</string>
+    <string name="ldac_quality_balanced">Kiegyensúlyozott hang- és kapcsolatminőség</string>
+    <string name="ldac_quality_connection">Optimális kapcsolatminőség</string>
+    <string name="ldac_quality_adaptive">A legjobb eredmény (adaptív bitsebesség)</string>
+    <string name="ldac_quality_adaptive_sub">Automatikus bitráta</string>
+    <string name="codec_applied">%1$s beállítva</string>
+    <string name="bt_permission_denied">Bluetooth engedély szükséges</string>
+    <string name="bt_not_supported">Bluetooth nem támogatott ezen az eszközön</string>
+</resources>

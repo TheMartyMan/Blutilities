@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blutilities</string>
+
+    <!-- Tile labels -->
+    <string name="tile_bluetooth_off">Bluetooth turned off</string>
+    <string name="tile_no_device">No audio device</string>
+    <string name="tile_connected">Connected</string>
+
+    <!-- Bluetooth Quality Activity -->
+    <string name="title_bt_quality">%1$s</string>
+    <string name="title_bt_quality_default">Bluetooth playback quality</string>
+    <string name="close">Close</string>
+
+    <!-- Codec names / labels -->
+    <string name="codec_system_selection">System Selection (Optimal)</string>
+    <string name="codec_system_selection_sub">System automatically selects</string>
+    <string name="header_codec">Codec</string>
+    <string name="header_ldac_quality">LDAC Quality</string>
+    <string name="no_device_connected">No device connected</string>
+
+    <!-- LDAC quality levels -->
+    <string name="ldac_quality_best">Optimised for Audio Quality</string>
+    <string name="ldac_quality_balanced">Balanced Audio &amp; Connection Quality</string>
+    <string name="ldac_quality_connection">Optimised for Connection Quality</string>
+    <string name="ldac_quality_adaptive">Best Effort (Adaptive Bitrate)</string>
+    <string name="ldac_quality_adaptive_sub">Automatic bitrate</string>
+
+    <!-- Feedback -->
+    <string name="codec_applied">%1$s applied</string>
+    <string name="bt_permission_denied">Bluetooth permission required</string>
+    <string name="bt_not_supported">Bluetooth is not supported on this device</string>
+</resources>
